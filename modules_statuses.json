@@ -1,0 +1,16 @@
+{
+    "Auth": true,
+    "Employee": true,
+    "Organization": true,
+    "Attendance": true,
+    "Leave": true,
+    "Recruitment": true,
+    "Payroll": true,
+    "Performance": true,
+    "Admin": true,
+    "Training": true,
+    "Documents": true,
+    "Reports": true,
+    "SystemAdmin": true,
+    "Commerce": true
+}

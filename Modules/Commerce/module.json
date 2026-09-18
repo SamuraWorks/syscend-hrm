@@ -1,0 +1,11 @@
+{
+    "name": "Commerce",
+    "alias": "commerce",
+    "description": "Purchase, licensing, white-label branding and deployment services for Syscend-HRM.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Commerce\\app\\Providers\\CommerceServiceProvider"
+    ],
+    "files": []
+}
